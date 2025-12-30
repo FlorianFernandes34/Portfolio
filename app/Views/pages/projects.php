@@ -23,7 +23,7 @@
                 'title' => 'Projet Web Portfolio',
                 'desc' => 'Mon Portfolio personnel, conçu avec CodeIgniter4, TailWindCSS et JavaScript.',
                 'tech' => 'HTML, PHP, CI4, Tailwind, JS',
-                'link' => 'https://github.com/tonUsername/portfolio',
+                'link' => 'https://github.com/FlorianFernandes34/Portfolio',
                 'etat' => 'En Cours'
             ],
             [
@@ -37,7 +37,7 @@
                 'title' => 'Application Desktop de Billeterie',
                 'desc' => 'Projet d\'application desktop conçue dans le cadre d\'une de mes situ. pro., en collaboration avec d\'autres étudiants.',
                 'tech' => 'API Rest (CI4), PHP, Java, Swing',
-                'link' => '',
+                'link' => 'https://github.com/Erdem-D-dev/Billeterie_St_pro_2',
                 'etat' => 'En Cours'
             ],
             [

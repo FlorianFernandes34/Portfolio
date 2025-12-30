@@ -19,7 +19,7 @@
             <a href="<?= base_url('course')?>" class="hover:text-text">Parcours</a>
             <a href="<?= base_url('skills')?>" class="hover:text-text">Compétences</a>
             <a href="<?= base_url('projects')?>" class="hover:text-text">Projets</a>
-            <a href="<?= base_url('interships')?>" class="hover:text-text">Stages</a>
+            <a href="<?= base_url('internships')?>" class="hover:text-text">Stages</a>
             <a href="<?= base_url('tech')?>" class="hover:text-text">Veille Technologique</a>
             <a href="<?= base_url('contact')?>" class="hover:text-text">Contact</a>
         </nav>
