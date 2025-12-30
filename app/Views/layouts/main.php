@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title><?= esc($title) ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="<?= base_url('public/images/favicon/favicon.jpeg') ?>" type="image/png">
+
 
     <!-- Tailwind (usage sobre) -->
     <script src="https://cdn.tailwindcss.com"></script>
